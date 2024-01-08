@@ -11,7 +11,7 @@ const Hero = () => {
       <section className="relative min-h-[650px] bg-gradient-to-r from-primary to-secondary w-full md:rounded-xl shadow-md">
         <div className="container">
           <Navbar sidebar={sidebar} setSidebar={setSidebar} />
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center min-h-[665px]">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center min-h-[694px]">
             {/* text-content-section */}
             <div className="text-white mt-[100px] md:mt-0 p-4 space-y-4">
               <h1
