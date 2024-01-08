@@ -1,6 +1,6 @@
 import React from "react";
 import HeroImg from "../assets/strawberry.png";
-import Navbar from "./Navbar";
+import Navbar from "./Navbar.jsx";
 import { FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa6";
 

@@ -1,5 +1,5 @@
 import React from "react";
-import Hero from "./component/Hero.jsx";
+import Hero from "./components/Hero.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
