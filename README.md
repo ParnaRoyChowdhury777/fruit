@@ -1,4 +1,4 @@
-Just a try project using react + vite
+Just a try project of landing page using react + vite
 
 
 # React + Vite
